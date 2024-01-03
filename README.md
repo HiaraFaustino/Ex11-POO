@@ -10,14 +10,14 @@ Seu programa deve exibir um formulário com cinco campos de texto – um para ca
 exceção de Avaliações. Você deve usar Exceptions para validar os campos, de acordo com as opções
 permitidas. O formulário de cadastramento não deve exibir o campo Avaliações, já que a avaliação do
 jogo deve ser feita posteriormente.
-Questão 2 – Avaliação de jogos 
+- Questão 2 – Avaliação de jogos 
 Seu programa deve permitir a avaliação de cada jogo por meio de estrelas (notas de 1 a 5). Deve ser
 possível avaliar um jogo quantas vezes quiser. Para tanto, deve existir a opção Avaliar no menu Jogo. Ao
 selecionar essa opção, deve-se exibir uma tela contendo um campo de texto para digitação do código do
 jogo e um combo box com 5 opções: 1 estrela, 2 estrelas .... até 5 estrelas. A avaliação deve ser guardada
 na lista de avaliações de forma a permitir o cálculo da avaliação do jogo posteriormente. Note: o que deve
 ser guardado é um número entre 1 e 5.
-Questão 3 – Consulta de jogos 
+- Questão 3 – Consulta de jogos 
 Seu programa deve prover um mecanismo de consulta que permita selecionar jogos por Avaliação
 (número de estrelas). Para tanto, você deve construir uma interface com um combo box contendo as 5
 opções de estrelas (1 estrela, 2 estrelas .... 5 estrelas). Ao selecionar 1 estrela, deve-se mostrar todos os
