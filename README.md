@@ -1,11 +1,11 @@
 Questão 1 – Cadastro de jogos 
 Cada jogo deve ser cadastrado com as seguintes informações:
-Código
-Título
-Console (XBox, PlayStation, Switch, PC)
-Gênero (Ação, Aventura, Estratégia, RPG, Esporte, Simulação)
-Preço (valor maior que zero e valor menor ou igual a 500)
-Avaliações
+- Código
+- Título
+- Console (XBox, PlayStation, Switch, PC)
+- Gênero (Ação, Aventura, Estratégia, RPG, Esporte, Simulação)
+- Preço (valor maior que zero e valor menor ou igual a 500)
+- Avaliações
 Seu programa deve exibir um formulário com cinco campos de texto – um para cada atributo do jogo, com
 exceção de Avaliações. Você deve usar Exceptions para validar os campos, de acordo com as opções
 permitidas. O formulário de cadastramento não deve exibir o campo Avaliações, já que a avaliação do
